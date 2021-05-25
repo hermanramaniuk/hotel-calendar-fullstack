@@ -1,0 +1,7 @@
+export const GET_DATAS = 'GET_DATAS';
+export const GET_DATAS_ERRORS = 'GET_DATAS_ERRORS';
+export const GET_ROOMS = 'GET_ROOMS';
+export const GET_ROOMS_ERRORS = 'GET_ROOMS_ERRORS';
+export const UPDATE_DATE_INFO = 'UPDATE_DATE_INFO';
+export const UPDATE_DATE_INFO_ERRORS = 'UPDATE_DATE_INFO_ERRORS';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
